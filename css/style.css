@@ -40,6 +40,9 @@ ul {
     color: var(--accent-color);
 }
 
+.header-link {
+    color: var(--primary-text-color);
+}
 .header-link.current {
     color: var(--accent-color);
 }
