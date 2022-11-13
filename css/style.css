@@ -266,12 +266,6 @@ ul {
     background: var(--accent-color);
 }
 
-.portfolio-gallery-link:hover,
-.portfolio-gallery-link:focus {
-    color: var(--accent-color);
-}
-
-
 .porfolio-gallery-title {
         font-weight: 700;
         font-size: 18px;
